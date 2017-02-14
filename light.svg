@@ -24,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.39932557"
-     inkscape:cx="13.616142"
+     inkscape:cx="-474.70721"
      inkscape:cy="346.79015"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -34,8 +34,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      showborder="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="710"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -137,7 +137,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -152,7 +152,7 @@
        id="path5097"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/mj/Desktop/cict_logo/dark.png"
-       inkscape:export-xdpi="499.84277"
-       inkscape:export-ydpi="499.84277" />
+       inkscape:export-xdpi="410.46497"
+       inkscape:export-ydpi="410.46497" />
   </g>
 </svg>
